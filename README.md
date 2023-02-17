@@ -1,6 +1,6 @@
-# primeiros_passos_2
+# Primeiros Passos II 
 
-A new Flutter project.
+Atividade do curso de flutter alura.
 
 ## Getting Started
 
